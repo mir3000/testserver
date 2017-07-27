@@ -11,7 +11,7 @@
 
 命令：
 
-wget -qO- https://raw.githubusercontent.com/mir3000/testserver/bench.sh | bash
+wget -qO- https://raw.githubusercontent.com/mir3000/testserver/master/bench.sh | bash
 或者
 
-curl -so- https://raw.githubusercontent.com/mir3000/testserver/bench.sh | bash
+curl -so- https://raw.githubusercontent.com/mir3000/testserver/master/bench.sh | bash
